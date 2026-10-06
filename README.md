@@ -1,5 +1,5 @@
 # Module-6-Assignment
-First, install the latest version of Python in Windows. To do so, open the Windows Command Prompt, and type the following command: winget install Python.Python.3.14
+First, install the latest version of Python in Windows. To do so, open the Windows Command Prompt, and type the following command: winget install Python.Python.3.14.
 
 Next, install the required dependencies using the following command: pip install opencv-python numpy matplotlib.
 
